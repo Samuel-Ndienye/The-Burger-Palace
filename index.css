@@ -1,16 +1,10 @@
-.box{width: 900px;
-float: right;
-border: 1px solid black;
-}
+section>.box>ul>li>a{
+position: absolute;
+justify-content: space-between;
+display:flex ;
+flex-direction: row;
+margin-right: 0%;}
 
-.box ul li{width: 120px;
-float: left;
-text-align: center;
-margin:10px auto;}
-
-.box ul li a{text-decoration:none;
-color: black;
-}
 .box ul li:hover{background-color: green;}
 .box ul li a:hover{color: white;}
 
@@ -25,20 +19,8 @@ text-align: justify;
 font-style:inherit;}
 *{padding: 0%;
 margin: 0%;}
-body{
-display: inline;
-justify-content: left;
-align-items: left;
-}
-.container{height: 60vh;
-    width: 170vh;
-    background: linear-gradient(
-    to right,
-    white 0%,
-    white 30%,
-    #f6b400 30%,
-    #f6b400 100%
-);
+
+.container{
 }
 
 .opt form , input[type="button"]{
