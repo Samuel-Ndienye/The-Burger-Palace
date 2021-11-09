@@ -46,15 +46,18 @@ em {
     font-weight: 600;
     margin-bottom: 40px;
     margin-left: 4%;
+    padding-bottom: 30px;
 
 }
 .opt{
     position: absolute;
-    margin-bottom: 15%;
-    margin-left: 6%;
+    margin-left:80px;
     
 }
 
+.section2{
+    
+}
 
 
 
