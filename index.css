@@ -64,18 +64,19 @@ em {
 }
 .quality-burgers{
     height: 70%;
-    margin-top: 10%;
     width: 25%;
     border-radius: 15px;
-    margin-right: 0%;
+    padding-top: 7%;
+    padding-right: 8%;
     
 }
 .delicious-meals{
     height:70%;
     width: 25%;
     border-radius:15px;
-    margin-right: 23%;
-    margin-top: 8%;
+    padding-right: 9%;
+    padding-top: 8%;
+
 
 }
   
@@ -83,6 +84,9 @@ em {
 border-radius: 15px;
 height: 80%;
 width: 25%;
+padding-right: 16%;
+padding-top: 8%;
+
 }
 .section2{
     font-size: 20px;
