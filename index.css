@@ -67,12 +67,28 @@ em {
     margin-top: 10%;
     width: 25%;
     border-radius: 15px;
+    margin-right: 0%;
     
 }
+.delicious-meals{
+    height:70%;
+    width: 25%;
+    border-radius:15px;
+    margin-right: 23%;
+    margin-top: 8%;
 
-
+}
   
-
+.fast-delivery{
+border-radius: 15px;
+height: 80%;
+width: 25%;
+}
+.section2{
+    font-size: 20px;
+    border: 1px solid black;
+    justify-items: center;
+}
 nav>a:hover{background-color: green;}
 nav>a:hover{color: white;}
 
