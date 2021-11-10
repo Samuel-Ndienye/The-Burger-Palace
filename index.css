@@ -28,7 +28,7 @@ em {
 .image {
     position: absolute;
     left: 50%;
-    bottom: %;
+    
     width: auto;
     height: auto;
     max-height: 580px;
@@ -68,6 +68,7 @@ em {
     border-radius: 15px;
     padding-top: 7%;
     margin-left: 4%;
+    border: 1px solid black;
     
 }
 .delicious-meals{
@@ -80,7 +81,7 @@ em {
 
 
 }
-.quality,.FastDelivery,.delicious{
+.quality-burgers,.fast-delivery,.delicious-meals{
     text-align: center;
 }
 .section2>img{
