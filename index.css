@@ -64,8 +64,9 @@ em {
     
 }
 .section2 > div {
-    margin-top: 30px;
+    margin-top: 35px;
     margin-bottom: 20px;
+    margin: 7px;
 
 }
 .quality-burgers{
@@ -89,7 +90,7 @@ em {
     border: 1px solid black;
     border-radius: 6%;
     padding-left: 3%;
-    margin-right: 1%;
+    margin-right: 2%;
     padding-right: 4%;
     margin-top: 10%;
 
@@ -99,11 +100,14 @@ em {
     text-align: center;
 }
  .delicious,.quality,.FastDelivery{
-     font-size: 24px;
+     font-size: 30px;
      font-family: inherit;
  }
+ .quality{
+     margin-top: 7%;
+ }
  .lorem{
-     font-size: 16px;
+     font-size: 22px;
  }
 .fast-delivery{
 border-radius: 15px;
@@ -125,6 +129,6 @@ margin-right: 0%;
 nav>a:hover{background-color: green;}
 nav>a:hover{color: white;}
 
-   
+   .
 
 
