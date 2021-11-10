@@ -28,7 +28,6 @@ em {
 .image {
     position: absolute;
     left: 50%;
-    
     width: auto;
     height: auto;
     max-height: 580px;
@@ -61,41 +60,57 @@ em {
     flex-direction: row;
     position: absolute;
     height: 500px;
+
+    
+}
+.section2 > div {
+    margin-top: 30px;
+    margin-bottom: 20px;
+
 }
 .quality-burgers{
     height: 70%;
-    width: 25%;
+    width: 16%;
     border-radius: 15px;
-    padding-top: 7%;
-    margin-left: 4%;
+    padding-top: 2%;
+    margin-left: 6%;
     border: 1px solid black;
-    
+    border-radius: 6%;
 }
 .delicious-meals{
     height:70%;
-    width: 25%;
+    width: 16%;
     border-radius: 15px;
-    margin-left: 9%;
+    margin-left: 20%;
     padding-top: 3%;
     border: 1px solid black;
+    border-radius: 6%;
 
 
 }
 .quality-burgers,.fast-delivery,.delicious-meals{
     text-align: center;
 }
-.section2>img{
-    margin-left: 2%;
-}
-  
+ .delicious,.quality,.FastDelivery{
+     font-size: 24px;
+     font-family: inherit;
+ }
+ .lorem{
+     font-size: 16px;
+ }
 .fast-delivery{
 border-radius: 15px;
-height: 80%;
-width: 25%;
-margin-left: 6%;
-padding-top: 8%;
+height: 70%;
+width: 20%;
+margin-left: 19%;
+padding-top: 4%;
+margin-bottom: 14%;
+border: 1px solid black;
+border-radius: 6%;
 
 }
+
+
 .section2{
     font-size: 20px;
     border: 1px solid black;
