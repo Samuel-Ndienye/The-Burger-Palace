@@ -58,7 +58,7 @@ em {
 .section2{
    background: #E1EBE6;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     position: absolute;
     height: 500px;
 }
@@ -67,24 +67,31 @@ em {
     width: 25%;
     border-radius: 15px;
     padding-top: 7%;
-    padding-right: 8%;
+    margin-left: 4%;
     
 }
 .delicious-meals{
     height:70%;
     width: 25%;
-    border-radius:15px;
-    padding-right: 9%;
-    padding-top: 8%;
+    border-radius: 15px;
+    margin-left: 9%;
+    padding-top: 3%;
+    border: 1px solid black;
 
 
+}
+.quality,.FastDelivery,.delicious{
+    text-align: center;
+}
+.section2>img{
+    margin-left: 2%;
 }
   
 .fast-delivery{
 border-radius: 15px;
 height: 80%;
 width: 25%;
-padding-right: 16%;
+margin-left: 6%;
 padding-top: 8%;
 
 }
