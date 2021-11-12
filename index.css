@@ -161,7 +161,7 @@ text-align: center;
 
 }
 .section4{
-    height: 500px;
+    height: 520px;
     width: 100%;
     margin-top: 8%;
     background-color: #E1EBE6;
@@ -206,9 +206,29 @@ text-align: center;
     font-weight: 900;
     margin-bottom: 0px;
 }
+.section5{
+    background-color: #f6b400;
+    height: 1050px;
+    padding-top:1% ;
+}
+.app,.google{
+    margin-bottom: 65%;
+}
+.app{
+    margin-bottom: 67%;
+}
 
+.mobile{
+    font-size: 40px;
+    font-weight: 900;
+    margin-top:10% ;
+    margin-left: 8%;
+}
+.phones{
+    margin-bottom: 52%;
+    margin-left: 6%;
 
-
+}
 
 
 
