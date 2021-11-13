@@ -1,6 +1,7 @@
 # The-Burger-Palace
 #### This is a landing page for a burger shop, 2021
-#### By: Samuel Ndienye Wang'ang'a
+#### Author
+* Samuel Ndienye Wang'ang'a
 ## Description
 This is a burger's shop website and its used to inform the customers on available varieties of burgers and the price ranges.There is also contacts which customers might use to give feedback on the services provided or place their orders. 
 ## Setup/Installation Requirements
@@ -12,7 +13,7 @@ This is a burger's shop website and its used to inform the customers on availabl
 * HTML
 ## Support and contact details
 * Slack-Samuel Wang'ang'a
-* E-mail - samuel.wang`ang`a@moringaschool.com
+* E-mail - samngash003@gmail.com
 ### License
 Copyright (c)  2021 Samuel Ndienye Wang'ang'a
 
