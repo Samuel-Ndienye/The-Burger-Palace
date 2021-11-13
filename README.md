@@ -1,5 +1,6 @@
 # The-Burger-Palace
-#### This is a landing page for a burger shop, 2021
+#### Brief Description 
+* This is a landing page for a burger shop, 2021
 #### Author
 * Samuel Ndienye Wang'ang'a
 ## Description
