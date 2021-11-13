@@ -1,8 +1,8 @@
 # The-Burger-Palace
 #### This is a landing page for a burger shop, 2021
-#### Samuel Ndienye Wang'ang'a
+#### By: Samuel Ndienye Wang'ang'a
 ## Description
-{This is a burger's shop website and its used to inform the customers on available varieties of burgers and the price ranges.There is also contacts which customers might use to give feedback on the services provided or place their orders. }
+This is a burger's shop website and its used to inform the customers on available varieties of burgers and the price ranges.There is also contacts which customers might use to give feedback on the services provided or place their orders. 
 ## Setup/Installation Requirements
 * Access to internet
 * Either smartphone or a computer
