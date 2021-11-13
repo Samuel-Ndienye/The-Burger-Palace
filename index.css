@@ -146,7 +146,23 @@ height: 600px;
 }
 .menu{
 text-align: center;
+font-weight: bold;
+font-size: 30px;
+position: relative;
+
+
 }
+.menu::after{
+    content: '';
+    height: 9px;
+    width: 5%;
+    background: #f6b400;
+    position: absolute;
+    left:47.5%;
+    bottom:0px;
+    top: 36px;
+}
+
 .p-3 {
     text-align: center;
 
@@ -294,4 +310,17 @@ flex-direction: row;
 }
 iconZ{
     height: 0px;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+    background-color: white;
+}
+.author{
+  text-align: justify; 
+  font-weight: bold; 
+}
+.right{
+    font-weight: bold;
 }
