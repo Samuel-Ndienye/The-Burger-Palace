@@ -208,27 +208,90 @@ text-align: center;
 }
 .section5{
     background-color: #f6b400;
-    height: 1050px;
-    padding-top:1% ;
+    height: 700px;
+    padding-top:1%;
+
 }
-.app,.google{
-    margin-bottom: 65%;
+
+
+.google{
+margin-top:30%;
+margin-left: 2%;
 }
 .app{
-    margin-bottom: 67%;
+    margin-top: 28%;
+ 
 }
 
 .mobile{
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 900;
-    margin-top:10% ;
-    margin-left: 8%;
+    margin-left: 6%;
+    position: absolute;
+    
+
+
 }
 .phones{
-    margin-bottom: 52%;
-    margin-left: 6%;
+    margin-bottom:80%;
+    position: absolute;
+    right: 6%;
+}
+.section6{
+    display: flex;
+    background-color: #E1EBE6;
+}
+.buttons{
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.letter{
+    font-size: 34px;
+}
+.enter{
+    border: 3px solid gainsboro;
+    border-radius: 5%;
+    color: gray;
+    height:42px;
+    width:200px;
+    margin-bottom: 20%;
+    text-align: justify;
+}
+.subs{
+    height:44px;
+    width:170px;
+    background-color: #f6b400;
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 14%;
+    text-align: center;
+      
+}
+.email{
+display: flex;
+flex-direction: row;
 
 }
-
-
-
+.site{
+    margin-left:20% ;
+    margin-top:1% ;
+    font-size: 20px;
+    font-weight: 500;
+}
+.map{
+    font-weight: 800;
+    font-size: 30px;
+}
+.b-icon{
+  display: flex;
+  flex-direction: row; 
+  margin-top: 6%;
+  margin-left: 5%; 
+}
+.buga{
+    margin-top: 38%;
+    font-size:25px ;
+}
+iconZ{
+    height: 0px;
+}
