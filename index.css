@@ -26,6 +26,11 @@ em {
     text-decoration: none;
     
 }
+.basket{
+    margin-left: 90%;
+    position: absolute;
+    top: 4%;
+}
 .image {
     position: absolute;
     left: 50%;
@@ -33,6 +38,17 @@ em {
     height: auto;
     max-height: 580px;
     max-width: 580px;
+}
+.now{
+    height: 50px;
+    width: 200%;
+    background-color: #f6b400;
+    border-top-right-radius:35%;
+    border-top-left-radius: 32%;
+    border-bottom-left-radius:32%;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
 }
 .shine{
     font-weight: 900;
@@ -323,4 +339,7 @@ footer{
 }
 .right{
     font-weight: bold;
+}
+.media{
+    margin-top: 1%;
 }
